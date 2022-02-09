@@ -16,4 +16,4 @@ You can easily calculate the amount of money converted in euros or dollars
 
 ## Appearance
 
-![currency-conventer](https://raw.githubusercontent.com/Kamil-krynski/currency-conventer/main/Screenshot_65.png)
+![currency-conventer](https://raw.githubusercontent.com/Kamil-krynski/currency-conventer/main/img/Screenshot_65.png)
