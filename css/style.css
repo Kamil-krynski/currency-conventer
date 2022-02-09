@@ -6,6 +6,10 @@ html {
     box-sizing: inherit;
 }
 
+body {
+    background: center / cover no-repeat url("../img/background.png");
+}
+
 .container {
     margin: 0 auto;
     max-width: 500px;
